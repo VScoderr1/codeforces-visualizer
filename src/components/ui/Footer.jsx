@@ -14,7 +14,7 @@ export default function Footer() {
         {/* <div className="hidden md:inline">|</div> */}
         <div>
           Built with <span className="text-red-500">♥</span> by{" "}
-          <span className="font-semibold">Shashank Raj</span>{" "}
+          <span className="font-semibold">Varun Singla</span>{" "}
         </div>
         {/* <div className="hidden md:inline">|</div> */}
         <a
