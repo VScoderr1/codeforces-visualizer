@@ -18,7 +18,7 @@ export default function Footer() {
         </div>
         {/* <div className="hidden md:inline">|</div> */}
         <a
-          href="https://github.com/shashank2401"
+          href="https://github.com/VScoderr1"
           className="flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:underline"
           target="_blank"
           rel="noopener noreferrer"
