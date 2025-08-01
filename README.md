@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Experience the visualizer live: [**Codeforces Visualizer**](https://cf-visualizer-rho.vercel.app/)
+Experience the visualizer live: [**Codeforces Visualizer**](https://codeforces-visualizer-git-main-vscoderr1s-projects.vercel.app/)
 
 ---
 
@@ -107,7 +107,7 @@ npm install -g pnpm
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shashank2401/cf-visualizer.git
+   git clone https://github.com/VScoderr1/cf-visualizer.git
    cd cf-visualizer
    ```
 
