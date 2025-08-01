@@ -12,7 +12,6 @@ Experience the visualizer live: [**Codeforces Visualizer**](https://cf-visualize
 
 Codeforces Visualizer is a sleek, intuitive web application designed to help competitive programmers and enthusiasts visualize their Codeforces journey and compare their performance with others. Built with modern web technologies, it provides comprehensive analytics and beautiful visualizations of your coding progress.
 
-**Please Note:** This is an unofficial tool and is not affiliated with or endorsed by Codeforces. It utilizes the publicly available Codeforces API.
 
 ---
 
@@ -191,18 +190,11 @@ Found a bug or have a feature request? Please [open an issue](https://github.com
 
 ## 👨‍💻 Author
 
-**Shashank Raj**
-
-## 🤝 Contributor
-
-**Ayush Raghuvanshi** – Helped with performance enhancements and caching strategy
+**Varun Singla**
 
 ---
 
 <div align="center">
 
-**⭐ Star this repository if it helped you visualize your Codeforces journey! ⭐**
-
-Made with ❤️ for the competitive programming community
 
 </div>
